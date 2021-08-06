@@ -1,4 +1,8 @@
-#scott  {
-  width: auto;
+body {
+  background-color: rgb(154, 228, 247);
 }
 
+.jumbotron {
+  background-image: url("../img/marble.png");
+  background-position: right;
+}
